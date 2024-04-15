@@ -19,5 +19,5 @@ else:
     logging.warn('No file was uploaded')
 
 print("!RC=0")
-print("FILENAME=11929812") #TO DO: Autogenerate file name and passwords.  Users can use these in the download exchange box to access your uploads
+print("FILENAME=12345678") #TO DO: Autogenerate file name and passwords.  Users can use these in the download exchange box to access your uploads
 print("PASSWORD=1111")
