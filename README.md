@@ -53,3 +53,8 @@ How to access debug menus:
 For Mario Artist: On the title screen press: D-Pad Up, D-Pad Up, D-Pad Up, D-Pad Down, D-Pad Down, D-Pad Down, D-Pad Left, D-Pad Right, D-Pad Left, D-Pad Right, L Button, R Button.  Then press: D-Pad left and all the C
 buttons.  This will open a menu. DO NOT CLICK ANYTHING as every option besides exit will delete data.  If you want to reset your member info press member info.
 For Randnet:  type x-avefront://---.nixon_screen/html/testlink.html into the browser.  To reset member info, choose the first option, but be advised it may permenantly mess up your disk.  Once, the GetCommunicationsConfig servlet is finished it should not mess anything up.
+
+Other:
+-Download scripts are not finished but they might help you get started.
+-Servlet is not finished but it is a start.
+-Upload was working, but it may be broken now.  I would recommend debugging in the browser if you have any issues.
